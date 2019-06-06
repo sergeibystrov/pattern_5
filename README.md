@@ -1,0 +1,2 @@
+# pattern_5
+Develop a program to simulate the work of the exchange cryptocurrency. Exchange clients can create an account and deposit money in the account. In addition, a cryptocurrency wallet is tied to each account. At the stock exchange, one cryptocurrency is traded (for example, Bitcoin). The user can specify at what rate and what amount of cryptocurrency he is willing to buy / sell, and the exchange should allow it to be done automatically upon reaching the specified rate.
